@@ -1,32 +1,22 @@
-# Food-Delivery Portfolio(Zomato)
+# Online Food Delivery Portfolio
 
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>23ECSE309</dd>
-<dt>Name</dt>
-<dd>Debanshu Behera</dd>
-<dt>University</dt>
-<dd>KLE Technological University, Hubballi-31</dd>
-</dl>
+## Course Information
 
-* * *
+* Course Name: Algorithmic Problem Solving
+* Course Code: 23ECSE309
+* Course Instructor: Prakash Hegade
 
-> A step towards better Food Delivery Management
->
-> Debanshu007
+## Personal Information
 
-#### Note:
-This page hosts:
+* Name: Debanshu Behera
+* USN: 01FE21BCI035
+* University: KLE Technological University, Hubballi-31
 
-1. Introduction
-2. Why Portfolio
-3. Objectives
-4. Design
-5. Challenges
-6. To-Do
-
-
-
-* * *
+## Table of Contents
+* [👋 Introduction](#introduction)
+* [📊 Market Analysis](#market-analysis)
+* [❓ Why Online Food Ordering as a Topic?](#why-online-food-ordering)
+* [🎯 Objectives](#objectives)
+* [💼 Business Cases](#business-cases)
+* [🔚 Conclusion](#conclusion)
+* [📑 References](#references)
