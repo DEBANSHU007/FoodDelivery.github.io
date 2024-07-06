@@ -48,10 +48,29 @@ This portfolio focuses on improving the food delivery platform by making it work
 * As more people sign up, the system needs to handle all the new accounts without slowing down. Preventing duplicate accounts is important to avoid confusion. Letting users customize their preferences is great, but organizing all that data efficiently is a challenge. Keeping track of who is currently logged in is necessary for a smooth experience.
 
 **Market Benefits**  
-* If the challenges are overcome, the user profile system can provide many advantages. Users will have a better experience and feel more secure, which builds trust. The system can run more smoothly with faster performance and lower costs.
+* Users will have a better experience and feel more secure, which builds trust. The system can run more smoothly with faster performance and lower costs.
 
 **Data structure and Algorithms used**
-* For managing active user sessions, linked lists can be used to track session information dynamically.
-* Bloom filter algorithm can be used to quickly check whether an email or username is already in use during registration without having to search through the entire database.
-* Binary Search Trees to store and organize the user's favorite cuisines and dietary restrictions. BSTs provide efficient searching, insertion, and deletion of these preferences, allowing for quick lookup
+* For managing active user sessions, **linked lists** can be used to track session information dynamically.
+* **Bloom filter algorithm** can be used to quickly check whether an email or username is already in use during registration without having to search through the entire database.
+* **Binary Search Trees** to store and organize the user's favorite cuisines and dietary restrictions. BSTs provide efficient searching, insertion, and deletion of these preferences, allowing for quick lookup
+
+
+**2. 📃 Restaurant Listing and Search**
+
+**Use Case**  
+* This displays available restaurants to users based on their location, allowing them to search, filter, and sort options by various criteria such as cuisine, ratings, distance, and price.
+
+**Challenges**  
+* Handling large volumes of restaurant data, implementing autocomplete and search suggestions, allowing flexible filtering and sorting, and ensuring data accuracy and consistency are key hurdles that need to be overcome.
+
+**Market Benefits**  
+* Implementing an efficient restaurant search and filtering system can significantly enhance the user experience by enabling customers to easily find dining options that match their preferences.
+
+**Data structure and Algorithms used**
+* **B-Trees** can be used for indexing large database to enable quick search and retrieval.
+* **Trie (Prefix Tree)** can be used for implementing autocomplete features in search, making it efficient to retrieve suggestions.
+
+
+
 
