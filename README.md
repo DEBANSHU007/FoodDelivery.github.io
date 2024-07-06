@@ -32,9 +32,26 @@ I have chosen the online food delivery system as the domain for this portfolio b
 
 ## Objectives
 This portfolio focuses on improving the food delivery platform by making it work better and more efficiently. The main goals are: 
-*Make the ordering process smoother and easier to manage. This includes things like tracking orders and making sure they are fulfilled quickly. 
-*Enhance the experience for the people using the platform. This could mean improving features that make it more convenient, personalized, and transparent (so customers can see where their order is). 
-*Optimize the delivery process to get the food to customers faster and more reliably. This might involve finding the best routes, reducing delivery times, and improving coordination between the platform, restaurants, and delivery drivers. 
-*Usage of advanced data structures and algorithms to power all these improvements. The goal is to take advantage of these algorithms to make the whole food delivery experience better for everyone involved.
+* Make the ordering process smoother and easier to manage. This includes things like tracking orders and making sure they are fulfilled quickly. 
+* Enhance the experience for the people using the platform. This could mean improving features that make it more convenient, personalized, and transparent (so customers can see where their order is). 
+* Optimize the delivery process to get the food to customers faster and more reliably. This might involve finding the best routes, reducing delivery times, and improving coordination between the platform, restaurants, and delivery drivers. 
+* Usage of advanced data structures and algorithms to power all these improvements. The goal is to take advantage of these algorithms to make the whole food delivery experience better for everyone involved.
 
 ## Business Cases
+
+**1. 👨‍👩‍👧‍👦 User Profile management and registerations**
+
+**Use Case**  
+* This allow users to create and manage their profiles. Users can input their personal information, manage addresses, and set preferences such as favourite cuisines. The system ensures secure handling of sensitive information like passwords and payment details.
+
+**Challenges**  
+* As more people sign up, the system needs to handle all the new accounts without slowing down. Preventing duplicate accounts is important to avoid confusion. Letting users customize their preferences is great, but organizing all that data efficiently is a challenge. Keeping track of who is currently logged in is necessary for a smooth experience.
+
+**Market Benefits**  
+* If the challenges are overcome, the user profile system can provide many advantages. Users will have a better experience and feel more secure, which builds trust. The system can run more smoothly with faster performance and lower costs.
+
+**Data structure and Algorithms used**
+* For managing active user sessions, linked lists can be used to track session information dynamically.
+* Bloom filter algorithm can be used to quickly check whether an email or username is already in use during registration without having to search through the entire database.
+* Binary Search Trees to store and organize the user's favorite cuisines and dietary restrictions. BSTs provide efficient searching, insertion, and deletion of these preferences, allowing for quick lookup
+
