@@ -6,7 +6,7 @@ Red-Black Trees are self-balancing binary search trees where each node is colour
 ### C++ Code
 
 ```cpp
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 struct Node {
