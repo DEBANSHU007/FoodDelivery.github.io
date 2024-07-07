@@ -8,7 +8,7 @@ The LRU (Least Recently Used) cache algorithm maintains a fixed-size cache by ev
 ```cpp
 
 #include <bits/stdc++.h> 
-using namespace std; 
+using namespace std;  
 
 class LRUCache { 
 	list<int> dq; 
