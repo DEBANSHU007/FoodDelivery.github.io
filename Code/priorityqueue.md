@@ -10,7 +10,7 @@ A priority queue is a data structure that manages a collection of elements with 
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
-using namespace std;
+using namespace std; 
 
 struct node
 {
