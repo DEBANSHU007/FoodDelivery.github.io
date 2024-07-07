@@ -115,4 +115,4 @@ int main()
 ### Limitations
 * LFU requires maintaining additional data structures (like frequency counters) for tracking access frequencies, which can increase memory and computational overhead.
   
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
