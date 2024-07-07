@@ -4,7 +4,7 @@
 A Merkle tree is a cryptographic structure that organizes data in a tree format where each leaf node is a hash of data blocks, and each non-leaf node is a hash of its child nodes, allowing efficient and secure verification of large data sets.
 
 ### C++ Code
-
+ 
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
