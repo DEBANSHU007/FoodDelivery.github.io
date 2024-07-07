@@ -1,7 +1,7 @@
 ## Least Connection Load balancing Algorithm
 
 ### Algorithm Description
-The least connection load balancing algorithm distributes incoming requests to the server with the fewest active connections, optimizing resource utilization and minimizing response times by reducing load disparities among servers.
+The least connection load balancing algorithm distributes incoming requests to the server with the fewest active connections, optimizing resource utilization and minimizing response times by reducing load disparities among servers. 
 
 ### C++ Code
 
