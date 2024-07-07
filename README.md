@@ -34,7 +34,8 @@ In today's busy world, people are increasingly ordering food online. They can ea
 ## Market Analysis
 The online food delivery market has seen tremendous growth in recent years. According to industry reports, the global food delivery market was valued at over $150 billion in 2021 and is expected to grow at a CAGR of 9.8% by 2026, reaching an estimated $235 billion. To capitalize on this growing market opportunity, food delivery platforms must focus on optimizing their underlying systems and processes. This portfolio focuses on improving the data structures and algorithmic approach used in a food delivery platform. The goal is to create a more efficient and streamlined ordering process, enhance the user experience, and enable more effective delivery logistics.
 
-![Market](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/ee04dcb8-7311-4eb0-aa88-1025c3c088f8)
+![Market](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/77c1d56e-3713-4a8d-a051-7f2819a9f985)
+
 
 
 ## Why Online Food Ordering as a topic?
@@ -99,7 +100,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * Using a distributed cache for restaurant recommendations makes the service faster and more responsive, leading to happier customers and increased sales. It also reduces costs and helps the system handle more users at once. 
 
-![caching](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/2fa46781-b1f4-4eae-a1b2-a107446945ab)
+![caching](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/615dd3db-baef-411d-aa0b-b8bd955f0153)
+
 
 **Data structure and Algorithms used**
 * Using Queue data structure we can implement [**Least Recently Used (LRU)**](./Code/LRU.md) or [**Least Frequently Used (LFU)**](./Code/LFU.md) algorithm, or a combination of both can be our cache eviction strategy for our use case.
@@ -134,7 +136,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * Enabling users to quickly find the nearest restaurants through location-based searching enhances user experience by providing convenience and personalized dining options.By suggesting nearby restaurants at the right moment, businesses can encourage more spontaneous dining choices and increase how often people place orders.
 
-![nearestrest](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/4d28d02e-68a3-4834-97db-cb08d6b31011)
+![nearestrest](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/76a0f46c-c68a-4800-af03-956f9544fe3a)
 
 
 **Data structure and Algorithms used**
@@ -170,7 +172,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * By presenting organized menus with detailed descriptions, prices, and images, businesses can effectively showcase their offerings and attract more customers. Providing customization options like size variations and add-ons enhances personalization.
 
-![Menu display](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/632b3450-28a2-403c-8ca8-c0de205aee17)
+![Menu display](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/855aafb5-37ea-4ae7-847c-0d6fed45c825)
+
 
 **Data structure and Algorithms used**
 * [**segment trees**](./Code/segmenttree.md) can be used to efficiently handle range queries and updates, such as filtering menu items by price ranges or ratings. This data structure allows for fast querying and updating of aggregated information over intervals.
@@ -187,7 +190,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * Implementing a comprehensive payment solution for online food delivery offers significant market benefits by enhancing customer convenience and trust. Supporting diverse payment methods such as credit/debit cards, and net banking accommodates varying customer preferences, expanding the platform's accessibility and user base.
 
-![paymentprocess](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/7732bb4a-30d8-489d-a79d-751156b26c67)
+![paymentprocess (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/21ddaaa8-eeea-4465-9a65-c90f7546ffaf)
+
 
 **Data structure and Algorithms used**
 * •	We can implement [**Merkle Trees**](./Code/merkletree.md) Data structure to efficiently verify the consistency of transaction data, for maintaining and validating the history of payment activities on the system. This also helps ensuring the security and reliability of the payment processing system for both customers and the platform.
@@ -204,7 +208,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * By keeping users informed about order status updates and promotions in real-time, system can improve customer experience and reduce customer enquiries about order progress. This proactive communication not only increases transparency but also encourages repeat orders and boosts customer loyalty.
 
-![notification](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/91e32bb7-5dd7-4707-93ee-0cac12eb5672)
+![notification](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/e322004a-d445-40a8-9c08-1534a9554d40)
+
 
 **Data structure and Algorithms used**
 * A [**priority queue**](./Code/priorityqueue.md) or [**Min Heap**](./Code/minheap.md) can be used to prioritize the notifications based on factors like order status, urgency, or user preferences. This allows the system to process and send the notifications in the correct order, ensuring users receive the most important updates first.
@@ -245,7 +250,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 * [**Geographic Load Balancing algorithm**](./Code/geaographicloadbalancer.md) can be used to route traffic based on the geographic location of the user.
 Combination of Geographic Load Balancing algorithm with Least Connection algorithm can provide an optimal solution.
 
-![loadbalancing2](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/05942a35-2549-4620-bfeb-de19f2269397)
+![loadbalancing2](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/08e7c6ae-be00-40ec-8343-ae3a62dccf9f)
+
 
 
 **12. 🏆 Loyalty Schemes Handling**
@@ -258,8 +264,9 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 
 **Market Benefits**  
 * Implementing a loyalty program in an online food delivery platform provides significant market benefits by improving customer loyalty and increasing user retention. By rewarding repeat customers with points or benefits, businesses can increase continued use of their services, leading to increased order frequency.
-  
-![loyaltypoints](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/a08c1b33-256d-46b2-a329-cc829620d14a)
+
+![loyaltypoints (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/10cc5054-1f7c-4e82-bc01-7a24b4a54476)
+
 
 **Data structure and Algorithms used**
 * The online food delivery platform can utilize a [**Fenwick Tree**](./Code/fenwick.md), also known as a Binary Indexed Tree, to efficiently manage and update the loyalty points earned by customers. 
@@ -276,7 +283,8 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 **Market Benefits**  
 * By allowing customers to share their experiences and opinions, businesses can attract new users who rely on peer feedback to make informed decisions. Positive reviews and high ratings can serve as powerful endorsements, driving customer acquisition and increasing order volumes.
 
-![review](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/2846cfec-36dc-4219-be47-cdcab324dd32)
+![review](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/5df8889a-8610-4d49-bf24-2a6ffed3b895)
+
 
 **Data structure and Algorithms used**
 * The online food delivery platform can use a [**Trie data structure**](./Code/trie.md) to efficiently store and search through user-generated reviews. This allows for quick prefix-based searches, autocomplete suggestions, and partial matching of review text, enabling users to easily find relevant reviews.
@@ -295,7 +303,9 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 **Market Benefits**  
 * By offering timely assistance and resolving issues related to orders, payments, and complaints, businesses can improve overall service reliability and customer retention. Responsive customer support also helps in mitigating negative feedback and managing reputation effectively.
 
-![customersupport](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/8223addf-58ee-4383-8a50-529f99f44d07)
+![customersupport (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/80c1c82a-8e78-478b-9d64-5512e10fa0a5)
+
+
 
 **Data structure and Algorithms used**
 * [**Trie Data Structures**](./Code/trie.md) can be used for managing and searching through large volumes of support articles and FAQs efficiently.
@@ -313,7 +323,8 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 **Market Benefits**  
 * By allowing users to monitor their orders' progress and track delivery drivers on a map, businesses can improve trust and reliability. This capability reduces uncertainty and enhances user convenience, potentially reducing customer inquiries and support requests.
 
-![realtimetracking](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/89af9187-4775-42ea-a1f4-8bc8c9316397)
+![realtimetracking](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/62ed1f3b-7d18-4e9a-9e0a-6db5b40eb1d5)
+
 
 **Data structure and Algorithms used**
 * [**KD trees**](./Code/Kdtree.md) or [**R-Tree**](./Code/Rtree.md) can be used efficiently store and query spatial data, useful for managing the locations of multiple delivery drivers.
