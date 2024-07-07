@@ -72,4 +72,4 @@ int main()
 * Once constructed, the Fenwick Tree's size cannot easily be changed dynamically. Resizing or modifying the underlying array requires rebuilding the entire tree.
 
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
