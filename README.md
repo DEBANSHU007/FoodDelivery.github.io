@@ -25,7 +25,8 @@
 ## Introduction
 In today's busy world, people are increasingly ordering food online. They can easily order meals from their phones or computers and have the food delivered right to their door. Online food delivery is popular because it saves time, offers a wide variety of restaurant choices, and provides features like order tracking and special deals. As the demand for convenient food delivery grows, companies are creating advanced online systems to manage orders, track deliveries, and keep customers happy. These systems use smart technology to make the food ordering process simple and efficient for both customers and restaurants.
 
-![order-delivery-model](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/c153215c-2b26-4243-ac9c-c6914b57a76c)
+![order-delivery-model](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/c2c61d55-c19a-47d2-92d7-4f1efd8ef48d)
+
 
 
 ## Market Analysis
