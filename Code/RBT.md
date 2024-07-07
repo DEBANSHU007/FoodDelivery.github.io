@@ -198,4 +198,4 @@ int main() {
 *	They are more complex to implement compared to simpler binary search trees due to the additional rules for balancing.
 *	Requires additional memory to store colour information for each node.
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
