@@ -25,7 +25,8 @@
 ## Introduction
 In today's busy world, people are increasingly ordering food online. They can easily order meals from their phones or computers and have the food delivered right to their door. Online food delivery is popular because it saves time, offers a wide variety of restaurant choices, and provides features like order tracking and special deals. As the demand for convenient food delivery grows, companies are creating advanced online systems to manage orders, track deliveries, and keep customers happy. These systems use smart technology to make the food ordering process simple and efficient for both customers and restaurants.
 
-![order-delivery-model (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/8aeab825-ac00-4162-a62a-c26018956ad7)
+![order-delivery-model](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/6154ce7c-ce39-4da2-8fa6-111a8a6dc32b)
+
 
 
 
@@ -59,7 +60,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * Users will have a better experience and feel more secure, which builds trust. The system can run more smoothly with faster performance and lower costs.
 
-  ![Userprofile](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/d2e18cdf-7bdc-49d4-9456-b0f544e5304b)
+![Userprofile (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/27d5356f-612a-4249-8bd4-7496f3d62b35)
 
 
 **Data structure and Algorithms used**
@@ -78,8 +79,9 @@ This portfolio focuses on improving the food delivery platform by making it work
 
 **Market Benefits**  
 * Implementing an efficient restaurant search and filtering system can significantly enhance the user experience by enabling customers to easily find dining options that match their preferences.
-  
-![filter](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/e69bc61e-45f8-4822-9bed-7ce58864ccbc)
+
+![filter (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/b1b22755-1431-4e48-a744-8ed658b660cb)
+
 
 **Data structure and Algorithms used**
 * [**B-Trees**](./Code/BTree.md) can be used for indexing large database to enable quick search and retrieval.
