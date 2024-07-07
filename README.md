@@ -16,7 +16,7 @@
 ## Table of Contents
 * [👋 Introduction](#introduction)
 * [📊 Market Analysis](#market-analysis)
-* [❓ Why Online Food Ordering as a Topic?](#why-online-food-ordering-as-a-topic?)
+* [❓ Why Online Food Ordering as a Topic?](#why-online-food-ordering-as-a-topic)
 * [🎯 Objectives](#objectives)
 * [💼 Business Cases](#business-cases)
 * [🔚 Conclusion](#conclusion)
@@ -38,7 +38,7 @@ The online food delivery market has seen tremendous growth in recent years. Acco
 
 
 
-## Why Online Food Ordering as a topic?
+## Why Online Food Ordering as a topic
 I have chosen the online food delivery system as the domain for this portfolio because it is a widely used service that plays a significant role in people's daily lives, handling a huge amount of data. This domain presents complex challenges that require the application of advanced data structures and algorithms to optimize various functionalities, such as order management, delivery logistics, personalization, and real-time tracking. Addressing these challenges offers the opportunity to showcase how the strategic use of data structures and algorithms can enhance the overall efficiency and user experience of the food delivery platform, making it a relevant and engaging choice for this portfolio.
 
 ## Objectives
