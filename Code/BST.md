@@ -154,4 +154,4 @@ int main()
 * In worst-case scenarios, BSTs can degenerate into unbalanced structures (skewed trees), leading to operations becoming inefficient .
 * Insertion, deletion, and rebalancing operations can be complex to implement and maintain compared to simpler data structures like arrays or linked lists.
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
