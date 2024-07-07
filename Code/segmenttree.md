@@ -80,4 +80,4 @@ int main()
 * Segment trees require O(2n−1) space to store the tree for an array of size n, which can be significant for large arrays.
 * Building, updating, and querying a segment tree involves complex code, making it harder to implement and debug compared to simpler data structures like arrays
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
