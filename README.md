@@ -275,5 +275,8 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 
 ## Conclusion
 
-In summary, this portfolio shows how advanced algorithms can improve online food delivery systems. By using smart data structures and algorithms, we can make ordering food easier, faster, and more reliable. This helps customers get their meals quicker, makes the process smoother for restaurants, and ensures delivery drivers have the best routes. Overall, these improvements can make the food delivery experience better for everyone involved.
+This portfolio shows how advanced algorithms can improve online food delivery systems. By using smart data structures and algorithms, we can make ordering food easier, faster, and more reliable. This helps customers get their meals quicker, makes the process smoother for restaurants, and ensures delivery drivers have the best routes. Overall, these improvements can make the food delivery experience better for everyone involved.
+
+
+## References
 
