@@ -90,8 +90,7 @@ bool search(Node* root, int point[])
 int main()
 {
 	struct Node *root = NULL;
-	int points[][k] = {{3, 6}, {17, 15}, {13, 15}, {6, 12},
-					{9, 1}, {2, 7}, {10, 19}};
+	int points[][k] = {{3, 6}, {17, 15}, {13, 15}, {6, 12},{9, 1}, {2, 7}, {10, 19}};
 
 	int n = sizeof(points)/sizeof(points[0]);
 
