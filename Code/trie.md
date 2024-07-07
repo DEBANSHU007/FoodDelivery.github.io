@@ -131,4 +131,4 @@ int main() {
 *	Operations like insertion and deletion may involve a lot of pointer manipulation and can be more complex compared to simpler data structures like hash tables.
 *	Tries can consume a significant amount of memory, especially when storing a large number of short strings or when characters are sparsely distributed.
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
