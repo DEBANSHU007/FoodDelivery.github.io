@@ -332,17 +332,17 @@ This portfolio shows how advanced algorithms can improve online food delivery sy
 [2] “Online Food Delivery Services Market Size, Share & Trends Analysis”, GrandViewResearch,2021. https://www.grandviewresearch.com/industry-analysis/online-food-delivery-services-market  <br><br>
 [3] "Online Food Delivery Services Market to Surpass US$ 97," GlobeNewswire, 2022. https://www.globenewswire.com/news-release/2022/12/21/2578140/0/en/Online-Food-Delivery-Services-Market-to-Surpass-US-97-29-Billion-by-2032-at-a-Healthy-CAGR-of-9-8-Complete-Study-Report-by-Future-Market-Insights-Inc.html.  <br><br>
 [4] "Global Online Food Delivery Services Market Report, 2019: Outlook to 2026 - Fierce Competition Between In-house & Third-party Delivery Service Providers is Inevitable," GlobeNewswire, 2019.  <br><br>https://www.globenewswire.com/news-release/2019/03/29/1788651/0/en/Global-Online-Food-Delivery-Services-Market-Report-2019-Outlook-to-2026-Fierce-Competition-Between-In-house-Third-party-Delivery-Service-Providers-is-Inevitable.html.  <br><br>
-[[5]] “Topic: Bloom Filters Explained,” SystemDesign, Mar. 06, 2023. https://systemdesign.one/bloom-filters-explained/  <br><br>
-[[6]] Mehdi Lotfinejad,”How to implementa B-Tree Data Structure,”DataQuest, Oct. 19, 2022. https://www.dataquest.io/blog/b-tree-data-structure/  <br><br>
-[[7]] “Topic: Unlocking the Secrets of Zomato’s Algorithm,” localhost,  Jun. 3, 2022.https://locall.host/how-zomato-algorithm-works/   <br><br>
-[[8]] GeeksforGeeks, “Search and Insertion in K Dimensional tree,” GeeksforGeeks, Jun. 13, 2023. https://www.geeksforgeeks.org/search-and-insertion-in-k-dimensional-tree/  <br><br>
-[[9]] Tithi Agarwal, “Vehicle Routing Problem (VRP): An Overview and Solution Strategies”, TrackoBit, Dec. 12, 2023. https://trackobit.com/blog/vehicle-routing-problem-decoded-what-why-and-how  <br><br>
-[[10]] Manish, “C++ program to implement segment Tree,” Sanfoundry, May 19, 2022. https://www.sanfoundry.com/cpp-program-to-implement-segment-tree/  <br><br>
-[[11]] GeeksforGeeks,”What is Priority Queue, Introduction to Priority Queue”,GeeksforGeeks, Jan. 11, 2023. https://www.geeksforgeeks.org/priority-queue-set-1-introduction/  <br><br>
-[[12]] GeeksforGeeks,”Types of Load Balancing Algorithm”, GeeksforGeeks, Jan. 31,2024. https://www.geeksforgeeks.org/load-balancing-algorithms/  <br><br>
-[[13]] Gang Wu, “Understanding Fenwick Tree,” Baeldung, Jun. 2,2022. https://www.baeldung.com/cs/fenwick-tree  <br><br>
-[[14]] Swarnavo Pramanik, “Design (LLD) a system for online food ordering and delivery like Zomato”, Medium,Apr. 2, 2024. https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f  <br><br>
-[[15]] Bartosz Sypytkowski, “R-Tree: algorithm for efficient indexing of spatial data”, bartoszsypytkowski, April 29, 2022.https://www.bartoszsypytkowski.com/r-tree/  <br><br>
+[5] “Topic: Bloom Filters Explained,” SystemDesign, Mar. 06, 2023. https://systemdesign.one/bloom-filters-explained/  <br><br>
+[6] Mehdi Lotfinejad,”How to implementa B-Tree Data Structure,”DataQuest, Oct. 19, 2022. https://www.dataquest.io/blog/b-tree-data-structure/  <br><br>
+[7] “Topic: Unlocking the Secrets of Zomato’s Algorithm,” localhost,  Jun. 3, 2022.https://locall.host/how-zomato-algorithm-works/   <br><br>
+[8] GeeksforGeeks, “Search and Insertion in K Dimensional tree,” GeeksforGeeks, Jun. 13, 2023. https://www.geeksforgeeks.org/search-and-insertion-in-k-dimensional-tree/  <br><br>
+[9] Tithi Agarwal, “Vehicle Routing Problem (VRP): An Overview and Solution Strategies”, TrackoBit, Dec. 12, 2023. https://trackobit.com/blog/vehicle-routing-problem-decoded-what-why-and-how  <br><br>
+[10] Manish, “C++ program to implement segment Tree,” Sanfoundry, May 19, 2022. https://www.sanfoundry.com/cpp-program-to-implement-segment-tree/  <br><br>
+[11] GeeksforGeeks,”What is Priority Queue, Introduction to Priority Queue”,GeeksforGeeks, Jan. 11, 2023. https://www.geeksforgeeks.org/priority-queue-set-1-introduction/  <br><br>
+[12] GeeksforGeeks,”Types of Load Balancing Algorithm”, GeeksforGeeks, Jan. 31,2024. https://www.geeksforgeeks.org/load-balancing-algorithms/  <br><br>
+[13] Gang Wu, “Understanding Fenwick Tree,” Baeldung, Jun. 2,2022. https://www.baeldung.com/cs/fenwick-tree  <br><br>
+[14] Swarnavo Pramanik, “Design (LLD) a system for online food ordering and delivery like Zomato”, Medium,Apr. 2, 2024. https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f  <br><br>
+[15] Bartosz Sypytkowski, “R-Tree: algorithm for efficient indexing of spatial data”, bartoszsypytkowski, April 29, 2022.https://www.bartoszsypytkowski.com/r-tree/  <br><br>
 
 
 
