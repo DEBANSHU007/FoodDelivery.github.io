@@ -4,7 +4,7 @@
 A segment tree is a binary tree used for storing intervals or segments, enabling efficient querying (such as sum, minimum, maximum) and updating of elements in logarithmic time. It is particularly useful for problems involving range queries and updates on an array.
 
 ### C++ Code
-
+ 
 ```cpp
 #include <bits/stdc++.h> 
 using namespace std; 
