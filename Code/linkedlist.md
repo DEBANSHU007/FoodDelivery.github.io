@@ -159,4 +159,4 @@ int main() {
 * Accessing elements requires traversing the list from the beginning, making random access inefficient and slower compared to arrays.
 
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
