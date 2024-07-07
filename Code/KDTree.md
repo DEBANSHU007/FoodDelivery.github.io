@@ -6,7 +6,6 @@ A KD tree is a binary tree data structure used for partitioning multidimensional
 ### C++ Code
 
 ```cpp
-
 #include<bits/stdc++.h>
 using namespace std;
 
