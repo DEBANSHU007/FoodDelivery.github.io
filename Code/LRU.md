@@ -80,4 +80,4 @@ int main()
 ### Limitations
 * The main limitation of the LRU (Least Recently Used) cache algorithm is its complexity in implementation compared to simpler cache strategies. Additionally, it may not perform optimally in scenarios where access patterns do not conform well to the LRU principle, potentially leading to less efficient cache utilization.
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
