@@ -223,4 +223,4 @@ int main() {
 ### Limitations
 * Storing the entire tree structure, including all intermediate hashes, can require significant space, particularly for large-scale applications.
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
