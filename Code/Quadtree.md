@@ -212,4 +212,4 @@ int main()
 * Quad trees can become unbalanced, especially when points or objects are not uniformly distributed across the space, leading to inefficient query times.
 * Quad trees can consume significant memory, especially when dealing with sparse datasets or when the tree depth becomes large
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
