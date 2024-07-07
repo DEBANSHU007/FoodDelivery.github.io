@@ -7,7 +7,7 @@ A quadtree is a tree data structure used to partition a 2D space recursively int
 
 ```cpp
 
-#include <cmath>
+#include <cmath> 
 #include <iostream>
 using namespace std;
 
