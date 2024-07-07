@@ -10,7 +10,7 @@ A max-heap is a complete binary tree where each node is larger than its children
 #include <vector>
 #include <stdexcept>
 
-class MaxHeap {
+class MaxHeap { 
 private:
     std::vector<int> heap;
 
