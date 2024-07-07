@@ -7,7 +7,7 @@ An R-Tree is a height-balanced tree structure for indexing multi-dimensional inf
 
 ```cpp
 #include <iostream>
-#include <vector>
+#include <vector> 
 #include <algorithm>
 #include <limits>
 
