@@ -53,7 +53,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Data structure and Algorithms used**
 * For managing active user sessions, [**linked lists**](./Code/linkedlist.md) can be used to track session information dynamically.
 * [**Bloom filter algorithm**](./Code/bloomfilter.md) can be used to quickly check whether an email or username is already in use during registration without having to search through the entire database.
-* [**Binary Search Trees**](./code/BST.md) to store and organize the user's favorite cuisines and dietary restrictions. BSTs provide efficient searching, insertion, and deletion of these preferences, allowing for quick lookup
+* [**Binary Search Trees**](./Code/BST.md) to store and organize the user's favorite cuisines and dietary restrictions. BSTs provide efficient searching, insertion, and deletion of these preferences, allowing for quick lookup
 
 
 **2. 📃 Restaurant Listing and Search**
