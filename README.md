@@ -51,13 +51,9 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Users will have a better experience and feel more secure, which builds trust. The system can run more smoothly with faster performance and lower costs.
 
 **Data structure and Algorithms used**
-* For managing active user sessions, **linked lists** can be used to track session information dynamically.
-* **Bloom filter algorithm** can be used to quickly check whether an email or username is already in use during registration without having to search through the entire database.
+* For managing active user sessions, [**linked lists**](./Code/linkedlist.md) can be used to track session information dynamically.
+* [**Bloom filter algorithm**](./Code/bloomfilter.md) can be used to quickly check whether an email or username is already in use during registration without having to search through the entire database.
 * [**Binary Search Trees**](./code/BST.md) to store and organize the user's favorite cuisines and dietary restrictions. BSTs provide efficient searching, insertion, and deletion of these preferences, allowing for quick lookup
-
-**Code**
-[linked lists](./Code/linkedlist.md)
-[Bloom filter](./Code/bloomfilter.md)
 
 
 **2. 📃 Restaurant Listing and Search**
@@ -72,8 +68,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Implementing an efficient restaurant search and filtering system can significantly enhance the user experience by enabling customers to easily find dining options that match their preferences.
 
 **Data structure and Algorithms used**
-* **B-Trees** can be used for indexing large database to enable quick search and retrieval.
-* **Trie (Prefix Tree)** can be used for implementing autocomplete features in search, making it efficient to retrieve suggestions.
+* [**B-Trees**](./Code/BTree.md) can be used for indexing large database to enable quick search and retrieval.
+* [**Trie (Prefix Tree)**](./Code/trie.md) can be used for implementing autocomplete features in search, making it efficient to retrieve suggestions.
   
 
 **3. 👥 User Related Information caching**
@@ -88,7 +84,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Using a distributed cache for restaurant recommendations makes the service faster and more responsive, leading to happier customers and increased sales. It also reduces costs and helps the system handle more users at once. 
 
 **Data structure and Algorithms used**
-* Using Queue data structure we can implement **Least Recently Used (LRU)** or **Least Frequently Used (LFU)** algorithm, or a combination of both can be our cache eviction strategy for our use case.
+* Using Queue data structure we can implement [**Least Recently Used (LRU)**](./Code/LRU.md) or [**Least Frequently Used (LFU)**](./Code/LFU.md) algorithm, or a combination of both can be our cache eviction strategy for our use case.
   
 
 **4. 🛣️Route planning (Finding shortest path)**
@@ -103,8 +99,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Optimizing the shortest routes in a food delivery system enhances delivery speed and efficiency, leading to quicker delivery times and increased customer satisfaction. This efficiency reduces fuel and operational costs for drivers, contributing to lower overall expenses.
 
 **Data structure and Algorithms used**
-* Online Food delivery system can use algorithms like **Dijkstra’s** to determine the shortest route between a restaurant and a client. Based on the weights given to the edges, these algorithms iterate over the graph and determine the shortest path. The Dijkstra Algorithm selects the node with the smallest cumulative weight iteratively until it reaches the target, which is the customer, starting at the source node (restaurant) and exploring all nearby nodes.
-* Algorithms like Dijkstra's and **A*searching algorithm** can be used to determine the most efficient path between two geographic locations based on factors such as distance, time, and traffic conditions.
+* Online Food delivery system can use algorithms like [**Dijkstra’s**](./Code/Dijkstra's.md) to determine the shortest route between a restaurant and a client. Based on the weights given to the edges, these algorithms iterate over the graph and determine the shortest path. The Dijkstra Algorithm selects the node with the smallest cumulative weight iteratively until it reaches the target, which is the customer, starting at the source node (restaurant) and exploring all nearby nodes.
+* Algorithms like Dijkstra's and [**A*searching algorithm**](./Code/Astarsearch.md) can be used to determine the most efficient path between two geographic locations based on factors such as distance, time, and traffic conditions.
 
 
 **5. 🍽️ Nearest Restaurant Searching**
@@ -119,7 +115,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Enabling users to quickly find the nearest restaurants through location-based searching enhances user experience by providing convenience and personalized dining options.By suggesting nearby restaurants at the right moment, businesses can encourage more spontaneous dining choices and increase how often people place orders.
 
 **Data structure and Algorithms used**
-* To find restaurants within a certain radius or determine the nearest restaurant to a user's location spatial indexing techniques like **KD Trees** or **Quad trees** can be used to efficiently store and query geospatial data. These algorithms can minimize the time and computational resources needed to perform operations on large datasets.
+* To find restaurants within a certain radius or determine the nearest restaurant to a user's location spatial indexing techniques like [**KD Trees**](./Code/Kdtree.md) or [**Quad trees**](./Code/Quadtree.md) can be used to efficiently store and query geospatial data. These algorithms can minimize the time and computational resources needed to perform operations on large datasets.
   
 
 **6. 🛵Streamlining Delivery paths**
@@ -134,7 +130,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 * By optimizing routes, businesses can reduce operational costs associated with fuel and vehicle maintenance, while increasing the number of deliveries per driver shift. This efficiency not only enhances overall service reliability but also supports scalability, allowing businesses to handle higher order volumes during peak times without compromising delivery speed or quality.
 
 **Data structure and Algorithms used**
-* Route Optimization Algorithms such as the **Vehicle Routing Problem (VRP) algorithms** and the **Travelling Salesman Problem (TSP)** solver using Dynamic Programming, to optimize numerous deliveries in addition to the shortest way. These algorithms take into account things like consumer preferences, vehicle capacity, and delivery window times.
+* Route Optimization Algorithms such as the [**Vehicle Routing Problem (VRP) algorithms**](./Code/VRP.md) and the [**Travelling Salesman Problem (TSP)**](./Code/TSP.md) solver using Dynamic Programming, to optimize numerous deliveries in addition to the shortest way. These algorithms take into account things like consumer preferences, vehicle capacity, and delivery window times.
   
 
 **7. 📜Displaying Menu**
@@ -149,7 +145,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 * By presenting organized menus with detailed descriptions, prices, and images, businesses can effectively showcase their offerings and attract more customers. Providing customization options like size variations and add-ons enhances personalization.
 
 **Data structure and Algorithms used**
-* **segment trees** can be used to efficiently handle range queries and updates, such as filtering menu items by price ranges or ratings. This data structure allows for fast querying and updating of aggregated information over intervals.
+* [**segment trees**](./Code/segmenttree.md) can be used to efficiently handle range queries and updates, such as filtering menu items by price ranges or ratings. This data structure allows for fast querying and updating of aggregated information over intervals.
 
 
 **8.  💳Payment Processing**
@@ -164,7 +160,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Implementing a comprehensive payment solution for online food delivery offers significant market benefits by enhancing customer convenience and trust. Supporting diverse payment methods such as credit/debit cards, and net banking accommodates varying customer preferences, expanding the platform's accessibility and user base.
 
 **Data structure and Algorithms used**
-* •	We can implement **Merkle Trees** Data structure to efficiently verify the consistency of transaction data, for maintaining and validating the history of payment activities on the system. This also helps ensuring the security and reliability of the payment processing system for both customers and the platform.
+* •	We can implement [**Merkle Trees**](./Code/merkletree.md) Data structure to efficiently verify the consistency of transaction data, for maintaining and validating the history of payment activities on the system. This also helps ensuring the security and reliability of the payment processing system for both customers and the platform.
 
 
 **9. 🔔Notification and Alerts**
@@ -179,7 +175,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 * By keeping users informed about order status updates and promotions in real-time, system can improve customer experience and reduce customer enquiries about order progress. This proactive communication not only increases transparency but also encourages repeat orders and boosts customer loyalty.
 
 **Data structure and Algorithms used**
-* A **priority queue** or **Min Heap** can be used to prioritize the notifications based on factors like order status, urgency, or user preferences. This allows the system to process and send the notifications in the correct order, ensuring users receive the most important updates first.
+* A [**priority queue**](./Code/priorityqueue.md) or [**Min Heap**](./Code/minheap.md) can be used to prioritize the notifications based on factors like order status, urgency, or user preferences. This allows the system to process and send the notifications in the correct order, ensuring users receive the most important updates first.
   
 
 **10. 🗺️Providing Location Based Services**
@@ -194,7 +190,7 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Incorporating geofencing capabilities in an online food delivery platform offers significant market benefits by enhancing personalized user experiences and increasing operational efficiency. By leveraging location-based services, businesses can send targeted notifications and promotions to users when they are near participating restaurants.
 
 **Data structure and Algorithms used**
-* The online food delivery platform can implement **Quad Trees** based algorithms to efficiently store and manage spatial data for geofencing queries.
+* The online food delivery platform can implement [**Quad Trees**](./Code/Quadtree.md) based algorithms to efficiently store and manage spatial data for geofencing queries.
 
 
 **11. 🔃 Load Balancing for handling large volume of requests**
@@ -209,8 +205,8 @@ This portfolio focuses on improving the food delivery platform by making it work
 * Effective load balancing in an online food delivery system enhances user satisfaction by ensuring fast and reliable service, even during peak times, which can lead to increased order volume and customer loyalty.
 
 **Data structure and Algorithms used**
-* **Least Connection load balancing** algorithm can be used to direct traffic to the server with the fewest active connections.
-* **Geographic Load Balancing algorithm** can be used to route traffic based on the geographic location of the user.
+* [**Least Connection load balancing**](./Code/leastconnectionloadbalancer.md) algorithm can be used to direct traffic to the server with the fewest active connections.
+* [**Geographic Load Balancing algorithm**](./Code/geaographicloadbalancer.md) can be used to route traffic based on the geographic location of the user.
 Combination of Geographic Load Balancing algorithm with Least Connection algorithm can provide an optimal solution.
 
 
@@ -226,7 +222,7 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 * Implementing a loyalty program in an online food delivery platform provides significant market benefits by improving customer loyalty and increasing user retention. By rewarding repeat customers with points or benefits, businesses can increase continued use of their services, leading to increased order frequency.
 
 **Data structure and Algorithms used**
-* The online food delivery platform can utilize a **Fenwick Tree**, also known as a **Binary Indexed Tree**, to efficiently manage and update the loyalty points earned by customers. 
+* The online food delivery platform can utilize a [**Fenwick Tree**](./Code/fenwick.md), also known as a Binary Indexed Tree, to efficiently manage and update the loyalty points earned by customers. 
 
 
 **13. 🤳Customer Reviews and Ratings**
@@ -241,8 +237,8 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 * By allowing customers to share their experiences and opinions, businesses can attract new users who rely on peer feedback to make informed decisions. Positive reviews and high ratings can serve as powerful endorsements, driving customer acquisition and increasing order volumes.
 
 **Data structure and Algorithms used**
-* The online food delivery platform can use a **Trie data structure** to efficiently store and search through user-generated reviews. This allows for quick prefix-based searches, autocomplete suggestions, and partial matching of review text, enabling users to easily find relevant reviews.
-* The platform can implement **Min-Heaps** or **Max-Heaps** to maintain a dynamic collection of reviews based on their ratings. This allows for the quick retrieval of the best or worst rated reviews.
+* The online food delivery platform can use a [**Trie data structure**](./Code/trie.md) to efficiently store and search through user-generated reviews. This allows for quick prefix-based searches, autocomplete suggestions, and partial matching of review text, enabling users to easily find relevant reviews.
+* The platform can implement [**Min-Heaps**](./Code/minheap.md) or [**Max-Heaps**](./Code/maxheap.md) to maintain a dynamic collection of reviews based on their ratings. This allows for the quick retrieval of the best or worst rated reviews.
 
 
 
@@ -258,8 +254,8 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 * By offering timely assistance and resolving issues related to orders, payments, and complaints, businesses can improve overall service reliability and customer retention. Responsive customer support also helps in mitigating negative feedback and managing reputation effectively.
 
 **Data structure and Algorithms used**
-* **Trie Data Structures** can be used for managing and searching through large volumes of support articles and FAQs efficiently.
-* Balanced Binary Tree (**AVL Trees** or **Red Black Trees**) can be used for quick lookup of responses.
+* [**Trie Data Structures**](./Code/trie.md) can be used for managing and searching through large volumes of support articles and FAQs efficiently.
+* Balanced Binary Tree ([**AVL Trees**](./Code/AVLTree.md) or [**Red Black Trees**](./Code/RBT.md) can be used for quick lookup of responses.
 
 
 **15. ⏲️Real Time Order Tracking**
@@ -274,7 +270,7 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 * By allowing users to monitor their orders' progress and track delivery drivers on a map, businesses can improve trust and reliability. This capability reduces uncertainty and enhances user convenience, potentially reducing customer inquiries and support requests.
 
 **Data structure and Algorithms used**
-* **KD trees** or **R-Tree** can be used efficiently store and query spatial data, useful for managing the locations of multiple delivery drivers.
+* [**KD trees**](./Code/Kdtree.md) or [**R-Tree**](./Code/Rtree.md) can be used efficiently store and query spatial data, useful for managing the locations of multiple delivery drivers.
 
 
 ## Conclusion
