@@ -119,4 +119,4 @@ int main()
 *	KD trees become less efficient as the dimensionality of the data increases.
 *	Maintaining balance in KD trees can be challenging, particularly when the dataset is dynamic or when points are inserted in a non-uniform manner.
 
-[← Back to Homepage]
+[← Back to Homepage](../README.md)
