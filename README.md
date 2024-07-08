@@ -52,7 +52,9 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * Users will have a better experience and feel more secure, which builds trust. The system can run more smoothly with faster performance and lower costs.
 
-![Userprofile (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/27d5356f-612a-4249-8bd4-7496f3d62b35)
+![Userprofile (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/27d5356f-612a-4249-8bd4-7496f3d62b35)    <br><br>
+![image](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/0a272558-5cbd-442c-9c76-fd06bd6cb2dc)
+
 
 
 **Data structure and Algorithms used**
@@ -72,7 +74,10 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * Implementing an efficient restaurant search and filtering system can significantly enhance the user experience by enabling customers to easily find dining options that match their preferences.
 
-![filter (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/b1b22755-1431-4e48-a744-8ed658b660cb)
+![filter (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/b1b22755-1431-4e48-a744-8ed658b660cb)      <br><br>
+
+![image](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/a6db0679-52ca-4d4b-b0c1-c9fc29e7b67c)
+
 
 
 **Data structure and Algorithms used**
@@ -127,7 +132,9 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * Enabling users to quickly find the nearest restaurants through location-based searching enhances user experience by providing convenience and personalized dining options.By suggesting nearby restaurants at the right moment, businesses can encourage more spontaneous dining choices and increase how often people place orders.
 
-![nearestrest](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/76a0f46c-c68a-4800-af03-956f9544fe3a)
+![nearestrest](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/76a0f46c-c68a-4800-af03-956f9544fe3a)   <br><br>
+![image](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/bf18f21d-f5bf-4cb3-967e-ca55efd4317f)
+
 
 
 **Data structure and Algorithms used**
@@ -163,7 +170,9 @@ This portfolio focuses on improving the food delivery platform by making it work
 **Market Benefits**  
 * By presenting organized menus with detailed descriptions, prices, and images, businesses can effectively showcase their offerings and attract more customers. Providing customization options like size variations and add-ons enhances personalization.
 
-![Menu display](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/855aafb5-37ea-4ae7-847c-0d6fed45c825)
+![Menu display](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/855aafb5-37ea-4ae7-847c-0d6fed45c825)     <br><br>
+![image](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/b4868e14-d7c8-4f53-ace7-013d4ca8e05b)
+
 
 
 **Data structure and Algorithms used**
