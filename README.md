@@ -303,7 +303,10 @@ Combination of Geographic Load Balancing algorithm with Least Connection algorit
 **Market Benefits**  
 * By offering timely assistance and resolving issues related to orders, payments, and complaints, businesses can improve overall service reliability and customer retention. Responsive customer support also helps in mitigating negative feedback and managing reputation effectively.
 
-![customersupport (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/80c1c82a-8e78-478b-9d64-5512e10fa0a5)
+![customersupport (1)](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/80c1c82a-8e78-478b-9d64-5512e10fa0a5)    <br><br>
+![image](https://github.com/DEBANSHU007/FoodDelivery.github.io/assets/67229736/c07c0c21-1108-4dbd-aee2-c8444e88ccd0)
+
+
 
 
 
